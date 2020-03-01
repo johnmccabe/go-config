@@ -1,0 +1,9 @@
+---
+intKey: 1234
+stringKey: stringval
+boolKey: true
+stringArrKey:
+- arrVal1
+- arrVal2
+mapKey:
+  subKey: subkeyval
